@@ -29,7 +29,7 @@ Fujitsu DeskUpdate
 https://webdownloads4.ts.fujitsu.com/download/FileDownload/fileDownload.aspx?SoftwareGUID=FE7260C7-0B8E-46D5-8EEF-613E9DBB09CC&FileFolder=Downloadfiles&FileTypeExtension=EXE&FileNameClient=FTS_DeskUpdateSetup_5020056_1279825.EXE&Token=Qkg9Rz1CQEJDPUFDPUUmLA==
 
 HP Image Assistant
-https://hpia.hpcloud.hp.com/downloads/hpia/hp-hpia-5.1.11.exe
+https://hpia.hpcloud.hp.com/downloads/hpia/hp-hpia-5.2.0.exe
 
 Lenovo System Update
 https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.02.25.exe
