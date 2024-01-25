@@ -8,7 +8,7 @@ CrystalDiskMark
 https://downloads.sourceforge.net/project/crystaldiskmark/8.0.4c/CrystalDiskMark8_0_4c.exe?ts=gAAAAABlN2AF1U353NBKPAxeHuGpBQA3tE9-gfKWnxx3hl1PVxZnQq83QH08iJF_F7fEqx9llZBt06Z6Wa_rM8Gcb9dWM4pDYw%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fcrystaldiskmark%2Ffiles%2F8.0.4c%2FCrystalDiskMark8_0_4c.exe%2Fdownload
 
 FurMark
-https://geeks3d.com/dl/show/728
+https://geeks3d.com/downloads/2023p/FurMark_1.37.2.0_Setup.exe
 
 HeavyLoad
 https://downloads.jam-software.de/heavyload/HeavyLoad-x64-Setup.exe
@@ -53,4 +53,4 @@ HCI MemTest
 https://hcidesign.com/memtest/MemTest.zip
 
 Intel CPU Diagnostics
-https://downloadmirror.intel.com/19792/IPDT_Installer_4.1.8.40_64bit.msi
+https://downloadmirror.intel.com/19792/IPDT_Installer_4.1.9.41_64bit.msi
